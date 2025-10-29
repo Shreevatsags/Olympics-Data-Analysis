@@ -65,5 +65,6 @@ Displays how top-performing countries’ medal counts changed over the years.
 
 ---
 
-## 💾 Output File
-Cleaned dataset is stored as:
+## 👨‍💻 Contributor
+
+Shreevatsa G S
